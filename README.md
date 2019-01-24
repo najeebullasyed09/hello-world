@@ -1,2 +1,2 @@
 # hello-world
-Learning GIT
+Learning GIT using Hello World Project
